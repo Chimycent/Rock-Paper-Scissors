@@ -40,7 +40,8 @@ div{
 .score{
     margin-top: 60px;
 }
-.reset-score-button{
+.reset-score-button,
+.auto-play-button{
     background-color: white;
     border: 1px solid black;
     border-radius: 20px;
